@@ -4,7 +4,7 @@ description: Transform two-person dialogue into one-sided conversation where onl
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.4606
+  version: 1.0.4607
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - dialogue
